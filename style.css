@@ -73,12 +73,12 @@ body {
 .description p {
   color: #b0b0ba;
   padding-top: 5px;
-  padding-left: 5px;
+  padding-left: 10px;
 }
 
 .description h4 {
   text-transform: uppercase;
-  padding-left: 5px;
+  padding-left: 10px;
 }
 
 input {
